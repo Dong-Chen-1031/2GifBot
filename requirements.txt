@@ -1,0 +1,9 @@
+discord.py
+rich
+dotenv
+watchdog
+Pillow
+aiohttp
+sqlalchemy
+aiosqlite
+greenlet
